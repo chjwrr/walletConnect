@@ -5,12 +5,12 @@ WalletConnectSwift地址:https://github.com/WalletConnect/WalletConnectSwift
 
 
 # 原本下载地址
-https://github.com/Boilertalk/Web3.swift.git
-https://github.com/WalletConnect/WalletConnectSwift.git
+1. https://github.com/Boilertalk/Web3.swift.git
+2. https://github.com/WalletConnect/WalletConnectSwift.git
 
-包含以下
-https://github.com/krzyzanowskim/CryptoSwift
-https://github.com/attaswift/BigInt.git
+### 包含以下
+1. https://github.com/krzyzanowskim/CryptoSwift
+2. https://github.com/attaswift/BigInt.git
 https://github.com/Boilertalk/secp256k1.swift.git
 https://github.com/mxcl/PromiseKit.git
 https://github.com/Quick/Quick.git
