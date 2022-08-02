@@ -225,6 +225,7 @@
 			mainGroup = 392C86522898D63C00DCB497;
 			packageReferences = (
 				39782A8C2898F13D009B3855 /* XCRemoteSwiftPackageReference "WalletConnectSwift" */,
+				C69B0569289992A0009D174D /* XCRemoteSwiftPackageReference "Web3.swift" */,
 			);
 			productRefGroup = 392C865C2898D63C00DCB497 /* Products */;
 			projectDirPath = "";
@@ -616,6 +617,14 @@
 			requirement = {
 				kind = upToNextMajorVersion;
 				minimumVersion = 1.0.0;
+			};
+		};
+		C69B0569289992A0009D174D /* XCRemoteSwiftPackageReference "Web3.swift" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/Boilertalk/Web3.swift.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 0.5.3;
 			};
 		};
 /* End XCRemoteSwiftPackageReference section */
