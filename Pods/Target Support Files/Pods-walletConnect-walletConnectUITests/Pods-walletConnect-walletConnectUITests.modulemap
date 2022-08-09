@@ -1,0 +1,6 @@
+framework module Pods_walletConnect_walletConnectUITests {
+  umbrella header "Pods-walletConnect-walletConnectUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

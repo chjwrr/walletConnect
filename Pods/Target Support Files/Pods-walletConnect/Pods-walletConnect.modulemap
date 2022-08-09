@@ -1,0 +1,6 @@
+framework module Pods_walletConnect {
+  umbrella header "Pods-walletConnect-umbrella.h"
+
+  export *
+  module * { export * }
+}
